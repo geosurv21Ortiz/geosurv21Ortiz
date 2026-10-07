@@ -16,7 +16,7 @@ Web platforms · Workflow automation · AI integrations
 
 ## About
 
-Independent developer building practical software for small and mid-size businesses. I design and ship web platforms from scratch, and I'm now focused on **automating repetitive business workflows with n8n, Make and Zapier**, plus **AI assistants built on the OpenAI API**. I'm a Software Design and Development student at TECSUP (expected 2027), and I learn by building real things.
+Independent developer building practical software for small and mid-size businesses. I design and ship web platforms from scratch, and I'm now focused on **automating repetitive business workflows with n8n, Make and Zapier**, plus **AI assistants built on the OpenAI API**. I hold a technical degree in **Geodesy and Topography** (SENCICO, 2019) and I'm finishing Software Design and Development at TECSUP (expected 2027), so I can bridge field and engineering work with software. I learn by building real things.
 
 ## What I can help with
 
@@ -25,7 +25,7 @@ Independent developer building practical software for small and mid-size busines
 | **Web platforms** | B2B e-commerce, catalogs, admin panels, REST APIs |
 | **Workflow automation** | Form → Google Sheets → notification flows, lead capture, CRM updates, webhooks |
 | **AI integrations** | FAQ chatbots and assistants with the OpenAI API |
-| **Geospatial tools** | Utilities for topography and surveying data |
+| **Geospatial & survey tools** | PostGIS spatial databases, topography and surveying data utilities, prototypes to speed up Civil 3D drafting |
 
 ## Featured project
 
@@ -50,6 +50,12 @@ Online store for an authorized distributor of industrial electronics and remote-
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Geospatial** — from my topography background
+
+`PostgreSQL / PostGIS` · `AutoCAD Civil 3D` · `Python`
+
+*Also trained in ArcGIS, Leica Infinity and Trimble Business Center. Academic coursework: PCI Geomatica and ERDAS.*
 
 **Learning & practicing** — automation and AI
 
